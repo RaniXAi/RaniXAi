@@ -55,6 +55,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RaniXAi&theme=radical&row=1&column=6&no-frame=true&animation=true" />
+</p> 
+
+---
+
 ### 🌐 Links & More
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RaniXAi)  
